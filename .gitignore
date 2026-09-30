@@ -1,0 +1,9 @@
+/target/
+/JSxtrack-data/
+/.idea/
+/.vscode/
+*.log
+*.tmp
+caido-plugin/node_modules/
+caido-plugin/dist/
+/.commandcode/
